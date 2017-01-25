@@ -1,0 +1,113 @@
+/* Here goes your CSS */body {
+  background-color: #E3F8FF;
+  color: #7D7D7D;
+  font-family:'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 1.6 em;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  color: #FFCE3E;
+  font-size: 22px;
+  line-height: 1.5em ;
+  padding-top : 10px;
+}
+
+h2 {
+  color: #405983;
+  font-family:'Open Sans', sans-serif;
+  font-weight: larger;
+  font-size: 18px;
+  line-height: 1.2em ;
+  padding-bottom: 3px;
+}
+
+h3 {
+  color: #FFCE3E;
+  font-family:'Open Sans', sans-serif;
+  font-size: 17px;
+  margin: 0px;
+}
+
+img {
+  width: 200;
+  height: 200;
+}
+
+ul, li {
+  list-style-type: none;
+  display: inline-block;
+  list-style-position:inside;
+  margin:10px 10px;
+  padding:0
+}
+
+a {
+  color: #CCCCCC;
+  font-weight: larger;
+  text-decoration: none;
+}
+
+a:hover i {
+  color: #FF7E67 !important;
+}
+
+a:hover {
+  color: #FF7E67 !important;
+}
+
+td {
+  padding: 4px;
+}
+
+#avatar {
+  border-radius : 100px;
+  padding
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto
+}
+
+.card {
+  background: white;
+  margin: 15px auto;
+  padding: 30;
+  border-radius:4px;
+  box-shadow: 1px 1px 1px #ACACAC;
+}
+
+.fa {
+  padding: 5px;
+  font-size: 30px;
+  color: #CCCCCC;
+}
+
+.img-spacing {
+  margin : 5px;
+}
+
+.icon-bigger {
+   width: 50;
+  height: 50;
+}
+
+.button {
+  padding: 10px;
+  background-color: #405983;
+  color: white;
+  border-radius: 4px;
+}
+
+.button:hover{
+  background-color:#FF7E67;
+  color: white;
+}
+
+.presentation-text{
+  margin-bottom: 30px;
+}
+
